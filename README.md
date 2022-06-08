@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://courses.kodluyoruz.org/?gclid=CjwKCAjwkYGVBhArEiwA4
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
-![Kodluyoruz Logo]https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
 
